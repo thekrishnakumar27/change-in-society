@@ -1,0 +1,6 @@
+{
+  "name": "Change in Society",
+  "description": "Turn community problems into trackable, evidence-based action. Small Actions. Real Change.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
